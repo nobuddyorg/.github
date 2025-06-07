@@ -1,5 +1,3 @@
-# NoBuddy
-
 Welcome to **NoBuddy** — a collection of quirky, open-source tools designed to blend functionality with fun.
 
 
